@@ -1,2 +1,2 @@
 # videostar-www
-Videostar - mobile video prodiction app
+Videostar - mobile video production app
